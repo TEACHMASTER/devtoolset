@@ -194,14 +194,5 @@ Feel free to reach out if you have any questions or suggestions:
 <img src="https://img.magicbox.tools/screenshot_img/iamcoreywechat.jpg" alt="加我为好友" style="height: 200px; width: 200px">
 
 
-## Support 
-
-If you find this project helpful, please consider giving it a ⭐ on GitHub!
-
-If you want to donate or sponsor this project, it will be greatly appreciated.
-
-<a href='https://ko-fi.com/X8X2WF1V8' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-
-<img src="./public/buymeacoffee.jpg" alt="请阿邱喝咖啡" style="height: 200px; width: 200px">
 
 Thank you for your support!
